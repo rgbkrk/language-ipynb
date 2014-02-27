@@ -8,11 +8,10 @@
   "homepage": "http://atom.github.io/language-ipynb",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rgbkrk/language-ipynb.git",
+    "url": "https://github.com/rgbkrk/language-ipynb.git"
   },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rgbkrk/language-ipynb/issues"
   }
-
 }
