@@ -1,6 +1,13 @@
 'filetypes': [
   'ipynb'
 ]
+
 'name': 'ipynb'
-'patterns': ['include': 'source.json']
+
+'patterns': [
+  {
+    'include': 'source.json'
+  }
+]
+
 'scopeName': 'source.ipynb'
